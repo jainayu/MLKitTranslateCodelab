@@ -1,5 +1,5 @@
 # MLKitTranslateCodelab
-ML Kit Translate Codelab is a very simple codelan which enable us, the developer to built an app using the ML Kit Text Recognition on-device API to recognize text from real-time camera feed. Application uses ML Kit Language Identification API to identify language of the recognized text. Lastly, our app will translate this text to any chosen language out of 59 options, using the ML Kit Translation API.
+ML Kit Translate Codelab is a very simple codelab which enable us, the developers, to built an android application using the ML Kit Text Recognition on-device API to recognize text from real-time camera feed. Application uses ML Kit Language Identification API to identify language of the recognized text. Lastly, our app will translate this text to any chosen language out of 59 options, using the ML Kit Translation API.
 
 I have successfully completed the [code lab ](https://developer.android.com/codelabs/mlkit-android-translate#0)
 
@@ -14,6 +14,6 @@ What we've covered
 
 Learn More
 
-- (https://developers.google.com/docs/ml-kit)
-- (https://developer.android.com/training/camerax)
+- https://developers.google.com/docs/ml-kit
+- https://developer.android.com/training/camerax
 
